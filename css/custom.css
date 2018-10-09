@@ -1,0 +1,22 @@
+.navbar {
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity: 0.9;
+}
+
+.nav-item {
+    font-size: 1.4rem;
+    padding-right: 20px;
+}
+
+.nav-item:last-child {
+    padding-right: 0px;
+}
+
+.nav-link {
+    color: #252525;
+}
+
+.nav-link:hover {
+    color: #3292a6;
+}
