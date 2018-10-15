@@ -72,6 +72,23 @@ p {
     color: #fff;
 }
 
+#contact {
+    background: #F8F9FA;
+}
+
+#map {
+    height: 360px;
+    width: 100%;
+    margin-top: 150px;
+}
+
+
+
+
+
+
+
+
 @media(max-width:576px) {
     #showcase h1 {
         font-size: 2rem;
