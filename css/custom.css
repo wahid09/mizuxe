@@ -51,6 +51,27 @@ body {
 }
 
 
+p {
+    text-align: justify;
+}
+
+#authors img {
+    margin-top: -60px;
+}
+
+#authors .card:hover {
+    background: #3292a6;
+    color: #fff;
+}
+
+#authors {
+    font-size: 20px;
+}
+
+#authors .card:hover .fa {
+    color: #fff;
+}
+
 @media(max-width:576px) {
     #showcase h1 {
         font-size: 2rem;
