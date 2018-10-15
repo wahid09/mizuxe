@@ -41,6 +41,15 @@ body {
     height: 100%;
 }
 
+#subscribe {
+    background: #252525;
+}
+
+#about {
+    background: #F8F9FA;
+    text-align: center;
+}
+
 
 @media(max-width:576px) {
     #showcase h1 {
